@@ -16,7 +16,7 @@ LC_CTYPE="C"
 # Ubuntu mirror to use:
 #
 ###DEBMIRROR="http://archive.ubuntu.com/ubuntu/"
-DEBMIRROR="http://us.archive.ubuntu.com/ubuntu/"
+DEBMIRROR="http://de.archive.ubuntu.com/ubuntu/"
 
 
 desktop() {
